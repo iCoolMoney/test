@@ -1,11 +1,11 @@
 body {
     font-family: Comfortaa; 
 }
-
  a{
     text-decoration: none;
     color: #378CDF;
 }
+
 
 .login {
     width: 100px;
@@ -22,7 +22,6 @@ body {
     border: solid 1px #378CDF;
     border-radius: 30px 30px 30px 30px;
 }    
-
 .blog {
     float: left;
     font-size: 60px;
