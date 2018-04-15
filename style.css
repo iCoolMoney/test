@@ -1,0 +1,204 @@
+body {
+    font-family: Comfortaa; 
+}
+ a{
+    text-decoration: none;
+    color: #378CDF;
+}
+
+
+.login {
+    width: 100px;
+    height: 30px;
+    float: right;
+    margin: 20px 10px 0 0;
+    text-align: center;
+    line-height: 30px;
+    border: solid 1px #ffffff;
+    cursor: pointer;
+}
+
+.login:hover{
+    border: solid 1px #378CDF;
+    border-radius: 30px 30px 30px 30px;
+}    
+.blog {
+    float: left;
+    font-size: 60px;
+    color: #ccc;
+}
+
+.header {
+    width: 800px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.conteiner {
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    height: 70px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.text {
+    height: auto;
+}
+.text {
+    margin: 30px 0 30px 0;
+}
+
+.textphoto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bottom {
+    height: 30px;
+    text-align: left;
+}
+.lnr-heart {
+    font-size: 23px;
+}
+
+.form-login {
+    width: 100%;
+    height: auto;   
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form input{
+    margin-bottom: 10px;
+    box-shadow: 0;
+}
+
+.name {
+    height: 30px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    background: white;
+}
+
+.password {
+    height: 30px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.btn-login {
+    width: 100px;
+    color: #378CDF;
+    height: 30px;
+    background: white;
+    border: 0;
+    cursor: pointer;
+}
+
+.profile {
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.article {
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.newart {
+    width: 600px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+
+input.nameart {
+    width: 600px;
+    height: 30px;
+    height: auto;
+}
+
+textarea.textart {
+    width: 600px;
+    height: auto;
+}
+
+input.file {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input.button {
+    width: 100px;
+    height: 30px;
+    color: #378CDF;
+    background: white;
+    border: 0;
+    text-align: center;
+    line-height: 30px;
+    border: solid 1px #378CDF;
+    cursor: pointer;
+}
+
+.conteiner2 {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+
+.glava {
+    width: 820px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.multi-conteiner {
+    width: 820px;
+    height: auto;
+    margin: auto;
+}
+
+.rigthcol {
+    width: 600px;
+    height: auto;
+}
+
+.photo img {
+    width: 600px;
+    height: auto;
+}
+
+.components {
+    width: 600px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.titlenews {
+    font-size: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin: 0;
+}
